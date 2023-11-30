@@ -13,27 +13,27 @@ const TrustedCompany = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-2">
                             <div className='trusted-company_img'>
-                                <img className='w-100' src="/assets/img/clients/1.png" alt="" />
+                                <img className='w-100' src="https://graphynix.com/2023/rydedentalfamily/public/img/uploads/our_clients/17007286193360.png" alt="" />
                             </div>
                         </div>
                         <div className="col-lg-2">
                             <div className='trusted-company_img'>
-                                <img className='w-100' src="/assets/img/clients/2.png" alt="" />
+                                <img className='w-100' src="https://graphynix.com/2023/rydedentalfamily/public/img/uploads/our_clients/17007286442466.jpg" alt="" />
                             </div>
                         </div>
                         <div className="col-lg-2">
                             <div className='trusted-company_img'>
-                                <img className='w-100' src="/assets/img/clients/3.png" alt="" />
+                                <img className='w-100' src="https://graphynix.com/2023/rydedentalfamily/public/img/uploads/our_clients/17007286649403.png" alt="" />
                             </div>
                         </div>
                         <div className="col-lg-2">
                             <div className='trusted-company_img'>
-                                <img className='w-100' src="/assets/img/clients/4.png" alt="" />
+                                <img className='w-100' src="https://graphynix.com/2023/rydedentalfamily/public/img/uploads/our_clients/17007286649403.png" alt="" />
                             </div>
                         </div>
                         <div className="col-lg-2">
                             <div className='trusted-company_img'>
-                                <img className='w-100' src="/assets/img/clients/5.png" alt="" />
+                                <img className='w-100' src="https://graphynix.com/2023/rydedentalfamily/public/img/uploads/our_clients/17007287454697.jpg" alt="" />
                             </div>
                         </div>
 

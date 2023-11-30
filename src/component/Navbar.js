@@ -9,7 +9,7 @@ const Navbar = () => {
                 <div className="container d-flex">
                     <div className="header-left">
                         <a href="" className="logo">
-                            <img src="assets/img/logo/169219063164dcc7a7a7a4a.png" width="125px" height="52px" className="img-fluid"
+                            <img src="https://studykee.com/2023/triveniexports/csadmin/public/img/uploads/settings/1698239624653914884b8a1.png" width="125px" height="52px" className="img-fluid"
                                 alt="" />
                         </a>
                     </div>

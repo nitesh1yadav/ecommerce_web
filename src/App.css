@@ -137,7 +137,7 @@ a{
 /*-----------------------trusted-company-----------------------*/
 
 .trusted-company{
-  background-color:#cf145a21;
+  background-color:var(--color-secondary);
 }
 
 /*-----------------------footer-----------------------*/
@@ -177,6 +177,14 @@ font-size: 5rem !important;
   background-color: var(--color-secondary) !important;
   transition: ease-in .2s;
 }
+/*-----------------------featured-products-----------------------*/
+.featured-products .card .card-body .card-title{
+  font-size: 15px !important;
+}
+.featured-products .card .card-body .card-text{
+  color: var(--color-secondary);
+}
+
 /*-----------------------footer-----------------------*/
 
 

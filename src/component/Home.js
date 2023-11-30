@@ -3,12 +3,14 @@ import Navbar from './Navbar'
 import Herosection from './Herosection'
 import Serices from './Serices';
 import TrustedCompany from './TrustedCompany';
-import { AppContext } from '../Context/ProductContext';
+import {useProductContext } from '../Context/ProductContext';
+import FeatureProducts from './FeatureProducts';
 
 
 
 const Home = () => {
-  const {myName}=useContext(AppContext)
+  const {myName} = useProductContext();
+
   const titleName="Heart Store";
   const heroImagee='/assets/img/base/why-choose-img1.jpg'
   return (
@@ -16,9 +18,9 @@ const Home = () => {
     <h1>{myName}</h1>
      <Herosection titleName={titleName} heroImagee={heroImagee}/>
      <Serices/>
+     <FeatureProducts/>
      <TrustedCompany/>
     </>
   )
 }
-
 export default Home
